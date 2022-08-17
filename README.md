@@ -27,4 +27,19 @@ I watched several video on YouTube, read a few blogs & also tried reading some r
 
 2. Another very good playlist that I found is [GANs by Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwIp8bZnzX8QR30TRcHO8Va). This playlist will introduce you to GANs in a very systematic manner i.e. new and advance architectures are introduced gradually. It also has paper review and code implementation. So, you can also follow along. 
 
-I will keep updating this list as I learn more.
+3. I also found [Generative Adversarial Networks by Jason Brownlee](https://machinelearningmastery.com/generative_adversarial_networks/) very helpful. If you don't want to buy the book then you can read [his blogs](https://machinelearningmastery.com/category/generative-adversarial-networks/) on GANs. One thing to note is that all his implementations are in Keras. So, if you are not comfortable with keras then you first learn some basics of it.
+
+I will keep updating this list as I learn more. 
+
+## Notebooks
+
+1.[Basic GANs](https://github.com/Ankur-singh/GANs/blob/main/notebooks/01_basic_GANs.ipynb)
+2.[DCGANs](https://github.com/Ankur-singh/GANs/blob/main/notebooks/02_DCGANs.ipynb)
+3.[WGANs](https://github.com/Ankur-singh/GANs/blob/main/notebooks/03_WGANs.ipynb)
+4.[Conditional GANs](https://github.com/Ankur-singh/GANs/blob/main/notebooks/04_Conditional_GAN.ipynb)
+5.[Pix2pix](https://github.com/Ankur-singh/GANs/blob/main/notebooks/05_Pix2Pix.ipynb) WIP
+
+### Disclaimer:
+- By no means this is my original work. I am trying to learn more about GANs and make notes for the same. In the process; I am reading blogs, watching lectures, reading papers, refering other peoples code, reading books, and experimenting. This repository is basically a distillation of things that I learn from all these resources.
+- I have not implemented the papers as is. Since, its just for learning, I only focused on the module that I wanted to understand & get better at. Also, regarding all the claims and results, please take them with a grain of salt. The content of the notebooks may change in the future as I learn more.
+- I have not followed any software best practices. The code is in raw form, no refactoring, no proper naming, etc. Again, I may update the code in the future.
