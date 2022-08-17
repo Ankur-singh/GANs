@@ -34,10 +34,14 @@ I will keep updating this list as I learn more.
 ## Notebooks
 
 1.[Basic GANs](https://github.com/Ankur-singh/GANs/blob/main/notebooks/01_basic_GANs.ipynb)
+
 2.[DCGANs](https://github.com/Ankur-singh/GANs/blob/main/notebooks/02_DCGANs.ipynb)
+
 3.[WGANs](https://github.com/Ankur-singh/GANs/blob/main/notebooks/03_WGANs.ipynb)
+
 4.[Conditional GANs](https://github.com/Ankur-singh/GANs/blob/main/notebooks/04_Conditional_GAN.ipynb)
-5.[Pix2pix](https://github.com/Ankur-singh/GANs/blob/main/notebooks/05_Pix2Pix.ipynb) WIP
+
+5.[Pix2pix](https://github.com/Ankur-singh/GANs/blob/main/notebooks/05_Pix2Pix.ipynb) (WIP)
 
 ### Disclaimer:
 - By no means this is my original work. I am trying to learn more about GANs and make notes for the same. In the process; I am reading blogs, watching lectures, reading papers, refering other peoples code, reading books, and experimenting. This repository is basically a distillation of things that I learn from all these resources.
